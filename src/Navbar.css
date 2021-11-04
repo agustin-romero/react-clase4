@@ -1,0 +1,13 @@
+.navbar{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: blue;
+    align-items: center;
+    list-style-type: none;
+    color: white;
+}
+
+.navcart{
+    color: white;
+    
+}
