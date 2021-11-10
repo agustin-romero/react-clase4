@@ -1,6 +1,6 @@
 import React from 'react';
-import Navitem from '.src/Navitem.js';
-import ".src/Navbar.css";
+import Navitem from './Navitem';
+import "./Navbar.css";
 import Navcart from './Navcart';
 
 
